@@ -1,0 +1,46 @@
+body {
+    height: auto;
+    background-color: rgb(197, 207, 207);
+}
+
+.div1 {
+    margin-left: 100px;
+    margin-top: 100px;   
+}
+
+.div2 {
+    margin-left: 700px;
+        }
+
+.div3 {
+    margin-left: 700px; 
+    margin-top: 200px;
+}       
+
+ .input1 {
+    width:  250px;
+    height: 25px;
+    padding: 5px 10px 5px 10px;
+    border:1px solid black;
+    font-size:20px;
+    font-family: Tahoma;
+    background-color: rgb(197, 207, 207);
+ }       
+
+ .input2 {
+    width:  300px;
+    height: 50px;
+    padding: 5px 10px 5px 10px;
+    border:1px solid black;
+    font-size:30px;
+    font-family: Tahoma;
+    background-color: rgb(197, 207, 207);
+ }
+
+
+ .button1 {
+    width:  100px;
+    height: 50px;
+    background-color: rgb(236, 242, 144);
+    border:1px solid black;
+     }
